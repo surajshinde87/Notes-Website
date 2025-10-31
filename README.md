@@ -91,7 +91,7 @@ npm run dev   # Runs the frontend in development mode
 ## 🚀 Deployment
 
 - **Backend** is deployed on **Render**
-- **Frontend** is hosted on **Vercel**
+- **Frontend** is hosted on **Netlify**
 
 
 
